@@ -1,0 +1,16 @@
+{
+    "trips" : [
+        {
+            "name": "1 night in Paris",
+            "price": 100000
+        },
+        {
+            "name": "2 nights in London",
+            "price": 200000
+        },
+        {
+            "name": "3 nights in New York",
+            "price": 300000
+        }
+    ]
+}
