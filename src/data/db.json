@@ -2,15 +2,22 @@
     "trips" : [
         {
             "name": "1 night in Paris",
-            "price": 100000
+            "price": 100000,
+            "id": "1",
+            "location": "Paris"
         },
         {
             "name": "2 nights in London",
-            "price": 200000
+            "price": 200000,
+            "id": "2",
+            "location": "London"
         },
         {
             "name": "3 nights in New York",
-            "price": 300000
+            "price": 300000,
+            "id": "3",
+            "location": "New York"
+            
         }
     ]
 }

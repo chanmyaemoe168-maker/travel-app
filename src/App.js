@@ -1,8 +1,9 @@
 import './App.css';
+import TripList from './components/TripList/index.js';
 
 function App() {
   return (
-<h1>hello</h1>
+    <TripList />
   );
 }
 
